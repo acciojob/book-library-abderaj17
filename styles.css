@@ -1,1 +1,38 @@
 /*  your css code here. If applicable */
+body{
+    background-color: #f8f8f8;
+    border-top: 1px solid black;
+}
+.book-library{
+    /* background-color: #ffffff; */
+    display: flex;
+    flex-direction: column;
+}
+.head{
+    text-align: center;
+}
+.space{
+    background-color: white;
+    width: 100%;
+    margin-top: 10px;
+    height: 15px;
+    padding: 8px;
+}
+img{
+width: 20%;
+height: 11%;
+justify-content: center;
+margin-left: 40%;
+margin-top: 3%;
+}
+h4{
+    margin: 0;
+    padding: 0;
+}
+p{
+    margin: 0;
+}
+button{
+    background-color: rgb(35, 232, 35);
+    border: none;
+}
